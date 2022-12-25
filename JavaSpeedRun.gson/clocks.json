@@ -1,0 +1,18 @@
+{
+  "coll": [
+    {
+      "_h": 0,
+      "_min": 0,
+      "_cost": 123,
+      "_name": "123",
+      "_img": "/src/main/java/org/example/asserts/cl123.png"
+    },
+    {
+      "_h": 0,
+      "_min": 0,
+      "_cost": 123,
+      "_name": "123",
+      "_img": "/src/main/java/org/example/asserts/cl123.png"
+    }
+  ]
+}

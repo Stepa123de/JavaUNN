@@ -1,0 +1,20 @@
+{
+  "coll": [
+    {
+      "_sec": 0,
+      "_h": 0,
+      "_min": 0,
+      "_cost": 100,
+      "_name": "clock",
+      "_img": "C:\\Users\\Стёпа\\IdeaProjects\\untitled\\src\\asserts\\cl0.png"
+    },
+    {
+      "_sec": 0,
+      "_h": 0,
+      "_min": 0,
+      "_cost": 1,
+      "_name": "Clock1",
+      "_img": "C:\\Users\\Стёпа\\IdeaProjects\\untitled\\src\\asserts\\cl0.png"
+    }
+  ]
+}
